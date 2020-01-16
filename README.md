@@ -1,1 +1,1 @@
-# esp_32_cam
+# esp_32_cam_setup
