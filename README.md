@@ -11,6 +11,7 @@ C:\Program Files (x86)\Arduino\libraries\WiFi\src
 --> going here rename the "WiFi.h" file as "ArduinoWiFi.h"
 
 #define CAMERA_MODEL_AI_THINKER //For on-board camera
+
 //#define CAMERA_MODEL_WROVER_KIT //For other camera module
 
 after upload-> reset--->unplug shorted wire---> reset---> find ip for VID stream
