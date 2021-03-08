@@ -14,7 +14,7 @@ C:\Program Files (x86)\Arduino\libraries\WiFi\src
 
 after upload-> reset--->unplug shorted wire---> reset---> find ip for VID stream
 
-MY IP= http://192.168.43.87/
+MY IP= http://192.168.XX.XX/
 
 open browswe and start vedio stream stream
 
