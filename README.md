@@ -4,7 +4,7 @@ Update the "Preferences" with following
 https://dl.espressif.com/dl/package_esp32_index.json
 
 Tutorial UTube: https://youtu.be/-GDlk6qgQ_E
-Boadr: ESP Wrover Module
+Board: ESP Wrover Module
 
 C:\Program Files (x86)\Arduino\libraries\WiFi\src
 --> going here rename the "WiFi.h" file as "ArduinoWiFi.h"
