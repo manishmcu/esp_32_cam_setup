@@ -26,4 +26,4 @@ Wire connection is following
 
 Board Management
 
-<img src="Board Management.jpeg" height=350>
+<img src="Board Management.jpeg">
