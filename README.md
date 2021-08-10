@@ -18,7 +18,7 @@ after upload-> reset--->unplug shorted wire---> reset---> find ip for VID stream
 
 MY IP= http://192.168.XX.XX/
 
-### FINALLY!, open browswe and start vedio stream stream
+### FINALLY!, open browswe and start vedio stream
 
 Wire connection is following
 
