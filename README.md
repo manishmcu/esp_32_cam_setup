@@ -22,8 +22,12 @@ MY IP= http://192.168.XX.XX/
 
 Wire connection is following
 
+<p align="center">
 <img src="Wire Connection/connection DIA.png" height=350> <img src="Wire Connection/connection.jpeg" height=350>
+</p>
 
 Board Management
 
-<img src="Board Management.jpeg">
+<p align="center">
+<img width=840 src="Board Management.jpeg">
+</p>
