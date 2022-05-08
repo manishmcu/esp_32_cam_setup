@@ -20,13 +20,13 @@ MY IP= http://192.168.XX.XX/
 
 ### FINALLY!, open browser and start vedio stream
 
-Wire connection is following
+#### Wire connection is following:
 
 <p align="center">
 <img src="Wire Connection/connection DIA.png" height=350> <img src="Wire Connection/connection.jpeg" height=350>
 </p>
 
-Board Management
+#### Board Management:
 
 <p align="center">
 <img width=840 src="Board Management.jpeg">
