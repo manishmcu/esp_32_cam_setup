@@ -23,7 +23,7 @@ MY IP= http://192.168.XX.XX/
 #### Wire connection is following:
 
 <p align="center">
-<img src="Wire Connection/connection DIA.png" height=350> <img src="Wire Connection/connection.jpeg" height=350>
+<img src="Wire Connection/connection DIA.png" height=300> <img src="Wire Connection/connection.jpeg" height=300>
 </p>
 
 #### Board Management:
