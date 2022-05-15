@@ -3,7 +3,7 @@
 Update the "Preferences" with following
 https://dl.espressif.com/dl/package_esp32_index.json
 
-Tutorial UTube: https://youtu.be/-GDlk6qgQ_E
+Tutorial YouTube: https://youtu.be/-GDlk6qgQ_E
 
 Board: ESP Wrover Module
 
